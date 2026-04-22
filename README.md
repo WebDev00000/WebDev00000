@@ -101,7 +101,7 @@ At Peachy Digitals, we believe the most impactful digital products are built whe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDev00000&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Peachy Digitals Most Used Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDev00000&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Peachy Digitals Most Used Languages" width="60%" />
 </p>
 
 ---
