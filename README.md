@@ -6,11 +6,7 @@
 
 ## ✦ About Us
 
-**Peachy Digitals** is a creative software house committed to transforming ideas into premium digital experiences. We specialize in blending strategy, design, and development to help brands build a strong and lasting presence in the digital world.
-
-Our work goes beyond simply creating websites or visuals. We focus on building digital solutions that feel refined, perform smoothly, and align with real business objectives. From modern websites and e-commerce platforms to custom software and brand-focused creative assets, every project is approached with precision, creativity, and a long-term growth mindset.
-
-At Peachy Digitals, we believe the most impactful digital products are built where aesthetics and functionality meet. That is why we place strong attention on user experience, visual identity, clean code, and scalable development standards in everything we create. Our goal is not only to deliver polished work, but to craft solutions that help businesses grow with confidence, clarity, and measurable impact.
+**Peachy Digitals** is a dynamic branding agency that helps businesses create an impactful and memorable brand presence in the digital world. We are a team of creative experts passionate about crafting unique and engaging brand experiences that connect with audiences across all platforms. Our services include brand strategy, identity design, web design and development, social media marketing, content creation, and more. We take a collaborative approach, working closely with our clients to understand their vision and bring it to life through strategic planning, innovative design, and flawless execution. At Peachy Digitals, we believe that great branding is essential for any business to succeed in today's competitive landscape. We pride ourselves on delivering exceptional results that not only meet but exceed our client's expectations. Our portfolio of successful projects and happy clients speaks for itself. If you want to build a strong brand that stands out from the crowd, look no further than Peachy Digitals. Let us help you bring your vision to life and achieve your business goals with style and flair.
 
 ---
 
