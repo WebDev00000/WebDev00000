@@ -6,11 +6,11 @@
 
 ## ✦ About Us
 
-**Peachy Digitals** is a creative software house dedicated to turning ideas into premium digital experiences. We combine strategy, design, and development to help brands build a stronger digital presence with solutions that are not only visually refined, but also practical, scalable, and results-driven.
+**Peachy Digitals** is a creative software house committed to transforming ideas into premium digital experiences. We specialize in combining thoughtful design, modern development, and strategic execution to help brands establish a strong and lasting presence in the digital world.
 
-Our approach is centered around understanding each client's vision, audience, and business goals before crafting tailored digital products that truly represent their brand. From modern websites and user-focused interfaces to custom software and creative brand assets, we aim to deliver work that feels polished, purposeful, and future-ready.
+Our work is built around more than just visuals or code. We focus on creating digital solutions that feel refined, perform efficiently, and align with real business goals. Whether it is a business website, an e-commerce platform, a custom software solution, or brand-focused design assets, every project is approached with precision, creativity, and long-term value in mind.
 
-At Peachy Digitals, we believe great digital products are built through a balance of creativity and functionality. That is why every project we take on is shaped with attention to detail, clean execution, and a commitment to long-term value. We do not just build for launch day — we build with growth, consistency, and brand impact in mind.
+At Peachy Digitals, we believe the most impactful digital products are created when aesthetics and functionality work together seamlessly. That is why we prioritize user experience, clean execution, scalable development, and brand consistency in everything we build. Our goal is not simply to deliver projects, but to craft digital solutions that help businesses grow with confidence, clarity, and impact.
 
 ---
 
@@ -18,49 +18,67 @@ At Peachy Digitals, we believe great digital products are built through a balanc
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="./assets/services/web-dev.png" alt="Web Development" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Web Development" width="100%" />
       <br /><br />
       <strong>Web Development</strong>
       <br /><br />
-      Modern, responsive, and high-performance websites built to strengthen your digital presence and support business growth.
+      <div align="left">
+        Modern, responsive, and high-performance websites built to strengthen your digital presence, improve user engagement, and support real business growth.
+      </div>
+      <br />
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/services/uiux.png" alt="UI/UX Design" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1586717799252-bd134ad00e26?auto=format&fit=crop&w=900&q=80" alt="UI UX Design" width="100%" />
       <br /><br />
       <strong>UI/UX Design</strong>
       <br /><br />
-      Intuitive and visually polished user experiences designed to improve usability, engagement, and conversion.
+      <div align="left">
+        Intuitive, modern, and user-focused design experiences that make products easier to use, visually stronger, and more effective for conversion.
+      </div>
+      <br />
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/services/ecommerce.png" alt="E-Commerce" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=900&q=80" alt="E-Commerce" width="100%" />
       <br /><br />
       <strong>E-Commerce</strong>
       <br /><br />
-      Scalable online stores with seamless shopping experiences, optimized layouts, and conversion-focused design.
+      <div align="left">
+        Scalable online store solutions designed for smooth customer journeys, strong product presentation, and better shopping performance.
+      </div>
+      <br />
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <img src="./assets/services/custom-software.png" alt="Custom Software" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Custom Software" width="100%" />
       <br /><br />
       <strong>Custom Software</strong>
       <br /><br />
-      Tailored software solutions designed around your business workflow, operational needs, and long-term goals.
+      <div align="left">
+        Tailored software solutions built around your workflows, operations, and goals to help your business run smarter and more efficiently.
+      </div>
+      <br />
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/services/graphic-design.png" alt="Graphic Design" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=900&q=80" alt="Graphic Design" width="100%" />
       <br /><br />
       <strong>Graphic Design</strong>
       <br /><br />
-      Creative visual assets and brand-focused design work that help businesses communicate with clarity and style.
+      <div align="left">
+        Creative visual assets and brand-driven design work that communicates your message clearly while giving your business a polished identity.
+      </div>
+      <br />
     </td>
-    <td width="33%" align="center">
-      <img src="./assets/services/support.png" alt="Maintenance and Support" width="100%" />
+    <td width="33%" valign="top" align="center">
+      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80" alt="Maintenance and Support" width="100%" />
       <br /><br />
       <strong>Maintenance & Support</strong>
       <br /><br />
-      Ongoing updates, monitoring, and technical support to keep your digital products secure, smooth, and reliable.
+      <div align="left">
+        Reliable ongoing updates, technical support, and performance monitoring to keep your digital products secure, stable, and future-ready.
+      </div>
+      <br />
     </td>
   </tr>
 </table>
@@ -113,27 +131,27 @@ At Peachy Digitals, we believe great digital products are built through a balanc
 ## ✦ Connect With Us
 
 <p align="center">
-  <a href="https://www.facebook.com/peachydigitals" target="_blank" style="text-decoration: none;">
+  <a href="https://www.facebook.com/peachydigitals" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/8B5CF6" alt="Facebook" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/peachydigitals/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/peachydigitals/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/A855F7" alt="Instagram" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/peachydigitals" target="_blank" style="text-decoration: none;">
+  <a href="https://x.com/peachydigitals" target="_blank">
     <img src="https://cdn.simpleicons.org/x/C084FC" alt="X" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/peachydigitals" target="_blank" style="text-decoration: none;">
+  <a href="https://www.behance.net/peachydigitals" target="_blank">
     <img src="https://cdn.simpleicons.org/behance/9333EA" alt="Behance" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.pinterest.com/peachydgitials/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.pinterest.com/peachydgitials/" target="_blank">
     <img src="https://cdn.simpleicons.org/pinterest/7C3AED" alt="Pinterest" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/agencies/peachydigitals/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.upwork.com/agencies/peachydigitals/" target="_blank">
     <img src="https://cdn.simpleicons.org/upwork/8B5CF6" alt="Upwork" width="24" />
   </a>
 </p>
