@@ -113,27 +113,27 @@ At Peachy Digitals, we believe great digital products are built through a balanc
 ## ✦ Connect With Us
 
 <p align="center">
-  <a href="https://www.facebook.com/peachydigitals" target="_blank">
+  <a href="https://www.facebook.com/peachydigitals" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/facebook/8B5CF6" alt="Facebook" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/peachydigitals/" target="_blank">
+  <a href="https://www.instagram.com/peachydigitals/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram/A855F7" alt="Instagram" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/peachydigitals" target="_blank">
+  <a href="https://x.com/peachydigitals" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/x/C084FC" alt="X" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/peachydigitals" target="_blank">
+  <a href="https://www.behance.net/peachydigitals" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/behance/9333EA" alt="Behance" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.pinterest.com/peachydgitials/" target="_blank">
+  <a href="https://www.pinterest.com/peachydgitials/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/pinterest/7C3AED" alt="Pinterest" width="24" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/agencies/peachydigitals/" target="_blank">
+  <a href="https://www.upwork.com/agencies/peachydigitals/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/upwork/8B5CF6" alt="Upwork" width="24" />
   </a>
 </p>
