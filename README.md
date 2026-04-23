@@ -84,7 +84,7 @@
 ## ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,nestjs,nodejs,express,prisma,postgres,firebase,supabase,docker,mongodb,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,angular,react,redux,nextjs,nestjs,nodejs,express,prisma,postgres,firebase,supabase,docker,mongodb,git,github&theme=dark" />
 </p>
 
 ---
